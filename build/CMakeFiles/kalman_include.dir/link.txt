@@ -1,0 +1,2 @@
+/usr/bin/ar qc libkalman_include.a  CMakeFiles/kalman_include.dir/include/kalmanFilter.cpp.o
+/usr/bin/ranlib libkalman_include.a
